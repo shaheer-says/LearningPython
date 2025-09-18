@@ -189,10 +189,3 @@ elif(13<= your_age <=19):
 else: {
         print("Adult :)")
 }
-#Q5->
-is_sunny = True
-is_weekend = False
-has_plans = True
-has_sunglasses_str = input("Do you have sunglasses? (yes/no) ")"""
-
-your_age = int(input("enter your age"))
