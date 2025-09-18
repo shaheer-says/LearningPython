@@ -1,4 +1,4 @@
-"""print("hello everyone")
+print("hello everyone")
 x = 10
 print(x)
 print(type(x))
@@ -18,7 +18,7 @@ print(area)
 L = int(input("enter length of fig :"))
 B = int(input("enter breadth of fig :"))
 area = 2*(L+B)
-print(area)"""
+print(area)
 ##### CONDITIONALS STATEMENTS(IF ELSE)
 age = int(input("Enter your age:"))
 
@@ -27,4 +27,5 @@ if(age >= 18) {
 }
 else {
     print("CNT DRIVE")
+
 }
