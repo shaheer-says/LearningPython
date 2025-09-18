@@ -22,10 +22,11 @@ print(area)
 ##### CONDITIONALS STATEMENTS(IF ELSE)
 age = int(input("Enter your age:"))
 
-if(age >= 18) {
-        print("CAN VOTE")
-}
-else {
+if age >= 18:
+    print("CAN VOTE")
+
+else:
     print("CNT DRIVE")
 
-}
+
+
